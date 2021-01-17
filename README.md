@@ -1,1 +1,1 @@
-# flaotyboat.github.io
+# floatyboat.github.io
